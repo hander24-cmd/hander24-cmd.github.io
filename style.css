@@ -420,6 +420,16 @@ section h2 {
     display: inline-block;
 }
 
+.project-image {
+    margin: 20px 0 24px;
+}
+
+.project-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+}
 /* ------------------------------
    SKILLS
 -------------------------------- */
